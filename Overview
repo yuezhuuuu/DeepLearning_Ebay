@@ -1,0 +1,22 @@
+TodoList
+
+Goal:build an app that removes the background from product images.
+
+Step.1:
+Training a model which can be used to remove the background from product.(suggest by colab.google)
+
+Step.2
+Connect the model to Google App Engine Deployment
+
+Deliverables:
+- Completely commented code
+(1) for training the deeplearning model(s)and complimentary other statistical models 
+
+(2) for setting up as impleweb app for demonstration purposes.
+- Final presentation:
+o ThefinalPowerPointpresentationshouldbemax.5slidedescribingbriefly
+(1) the task
+(2) the input/output
+(3) all steps taken (process flow diagram)
+(4) the main problems for each step
+(5) the (meaningful) ways to improve your projects furthers if you would have gotten more time
